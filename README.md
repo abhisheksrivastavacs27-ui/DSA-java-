@@ -1,2 +1,2 @@
 # DSA-java-
-Dsa question in java language
+Dsa question in java language with concepts 
